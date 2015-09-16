@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿羅漢具德經
+#+DATE: 2015-08-30 19:32:30.674734
+#+PROPERTY: JUAN 0
